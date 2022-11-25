@@ -3,7 +3,7 @@ def test_1():
 
 
 def test_2():
-    assert 'one' == 'one'
+    assert 'two' == 'two'
 
 
 def test_3():
