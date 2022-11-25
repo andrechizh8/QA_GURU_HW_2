@@ -1,5 +1,5 @@
 def test_10():
-    assert 1000 == 1000
+    assert 1 == 1
 
 def test_20():
     assert 200 == 200
