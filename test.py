@@ -6,5 +6,3 @@ def test_2():
     assert 'one' == 'one'
 
 
-def test_3():
-    assert 'name' == 'name'
