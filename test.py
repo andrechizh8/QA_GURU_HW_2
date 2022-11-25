@@ -1,14 +1,9 @@
 def test_1():
     assert 1 == 1
 
-
 def test_2():
-    assert 'one' == 'one'
+    assert 2 == 2
 
+def test_3():
+    assert 3 == 3
 
-def test_30():
-    assert 100 == 100
-
-
-def test_40():
-    assert 200 == 200
